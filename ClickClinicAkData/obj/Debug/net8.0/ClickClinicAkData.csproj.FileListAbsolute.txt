@@ -1,0 +1,12 @@
+D:\Myd\ClinicAkSaas\ClickClinicAkData\bin\Debug\net8.0\ClickClinicAkData.deps.json
+D:\Myd\ClinicAkSaas\ClickClinicAkData\bin\Debug\net8.0\ClickClinicAkData.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkData\bin\Debug\net8.0\ClickClinicAkData.pdb
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ClickClinicAkData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ClickClinicAkData.AssemblyInfoInputs.cache
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ClickClinicAkData.AssemblyInfo.cs
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ClickClinicAkData.csproj.CoreCompileInputs.cache
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ClickClinicAkData.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\refint\ClickClinicAkData.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ClickClinicAkData.pdb
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ref\ClickClinicAkData.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkData\obj\Debug\net8.0\ClickCli.CAB8645B.Up2Date

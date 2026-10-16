@@ -1,0 +1,12 @@
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\bin\Debug\net8.0\ClickClinicAkRepo.deps.json
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\bin\Debug\net8.0\ClickClinicAkRepo.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\bin\Debug\net8.0\ClickClinicAkRepo.pdb
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ClickClinicAkRepo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ClickClinicAkRepo.AssemblyInfoInputs.cache
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ClickClinicAkRepo.AssemblyInfo.cs
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ClickClinicAkRepo.csproj.CoreCompileInputs.cache
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ClickClinicAkRepo.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\refint\ClickClinicAkRepo.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ClickClinicAkRepo.pdb
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ref\ClickClinicAkRepo.dll
+D:\Myd\ClinicAkSaas\ClickClinicAkRepo\obj\Debug\net8.0\ClickCli.ACFBBD88.Up2Date

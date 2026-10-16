@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../ClickClinicAkAPI/ClickClinicAkAPI.csproj" />
+  <Project Path="../ClickClinicAkData/ClickClinicAkData.csproj" />
+  <Project Path="../ClickClinicAkModel/ClickClinicAkModel.csproj" />
+  <Project Path="../ClickClinicAkRepo/ClickClinicAkRepo.csproj" />
+  <Project Path="../ClickClinicAkSMS/ClickClinicAkSMS.csproj" />
+  <Project Path="ClickClinicAkUI.csproj" />
+</Solution>

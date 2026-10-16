@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B2715F-0660-4154-A4F2-40E80A06EE38}|..\\ClickClinicAkAPI\\ClickClinicAkAPI.csproj|d:\\myd\\clinicaksaas\\clickclinicakapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1AF91C7-2FFB-4A22-8721-7EEF24E5F730}|..\\ClickClinicAkSMS\\ClickClinicAkSMS.csproj|d:\\myd\\clinicaksaas\\clickclinicaksms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65E98DF-29B8-44B7-8C6A-BCE4B799BD03}|..\\ClickClinicAkRepo\\ClickClinicAkRepo.csproj|d:\\myd\\clinicaksaas\\clickclinicakrepo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E854D43-C369-41DA-B017-511C891A5C91}|..\\ClickClinicAkModel\\ClickClinicAkModel.csproj|d:\\myd\\clinicaksaas\\clickclinicakmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1EBA455-A821-468F-8C59-66C1E0479232}|..\\ClickClinicAkData\\ClickClinicAkData.csproj|d:\\myd\\clinicaksaas\\clickclinicakdata\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkAPI\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClickClinicAkAPI\\Class1.cs",
+              "ToolTip": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkAPI\\Class1.cs",
+              "RelativeToolTip": "..\\ClickClinicAkAPI\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:44:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkSMS\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClickClinicAkSMS\\Class1.cs",
+              "ToolTip": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkSMS\\Class1.cs",
+              "RelativeToolTip": "..\\ClickClinicAkSMS\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:44:00.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkRepo\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClickClinicAkRepo\\Class1.cs",
+              "ToolTip": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkRepo\\Class1.cs",
+              "RelativeToolTip": "..\\ClickClinicAkRepo\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:43:21.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkModel\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClickClinicAkModel\\Class1.cs",
+              "ToolTip": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkModel\\Class1.cs",
+              "RelativeToolTip": "..\\ClickClinicAkModel\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:42:57.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkData\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\ClickClinicAkData\\Class1.cs",
+              "ToolTip": "D:\\Myd\\ClinicAkSaas\\ClickClinicAkData\\Class1.cs",
+              "RelativeToolTip": "..\\ClickClinicAkData\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T11:42:28.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
